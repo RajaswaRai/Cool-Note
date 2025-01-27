@@ -1,16 +1,26 @@
 # cool_note
 
-A new Flutter project.
+# CARA INSTALL APLIKASI
+# ---------------------------
+0. Pastikan komputer menyala
+1. jalankan flutter pub get dalam root folder
+2. jalankan flutter run dalam root folder
+3. Selamat menikmati aplikasi :D
 
-## Getting Started
+# FITUR APLIKASI
+# ------------------------
+1. Menjual Jiwa
+2. Tambah task
+3. Edit task
+4. Hapus task
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# KELEBIHAN
+# -------------------------
+- Saat tambah task auto focus field (UX)
+- Saat edit task auto focus field (UX)
+- Saat delete task ada confirmation dialog
+- Menggunakan Provider
+- Menggunakan Sqflite
+- kustom nama aplikasi
+- Icon Hoshino
+- Developer Tampan
